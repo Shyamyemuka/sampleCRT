@@ -3,7 +3,7 @@
 
 This is the MERN and GIT basics class taugh by the CRT trainrt for our batch B8
 
-### Leant by Shyam Yemuka
+### Learnt by Shyam Yemuka
 
 #### Documentation:
 CRT:
